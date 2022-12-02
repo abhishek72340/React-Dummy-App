@@ -1,3 +1,12 @@
+<h2>This is a dummy app developed by using react</h2>
+<h2>Further I'll add some unique features</h2>
+<h3>And still I am working on it</h3>
+
+
+
+
+![React App - Google Chrome 01_12_2022 22_34_36](https://user-images.githubusercontent.com/109124944/205234858-6c1da0c7-e8fa-404e-ae7d-b6eb23bcc916.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

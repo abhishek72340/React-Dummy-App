@@ -1,6 +1,8 @@
 <h2>This is a dummy app developed by using react</h2>
 <h2>Further I'll add some unique features</h2>
 <h3>And still I am working on it</h3>
+<h3>
+you can access to anything by searching  in search bar</h3>
 
 
 

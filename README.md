@@ -2,7 +2,7 @@
 <h2>Further I'll add some unique features</h2>
 <h3>And still I am working on it</h3>
 <h3>
-you can access to anything by searching  in search bar</h3>
+you can access to anything by searching  through search bar</h3>
 
 
 
